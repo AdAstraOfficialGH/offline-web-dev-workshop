@@ -1,0 +1,15 @@
+#box {
+  /* border: borderWidth borderType borderColor; */
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  background-color: red;
+  /* padding: yaxis xaxis; */
+  padding: 20px;
+  margin: 20px;
+}
+
+#container {
+  border: 2px solid black;
+}
